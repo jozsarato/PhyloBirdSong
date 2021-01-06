@@ -4,7 +4,7 @@ This repository contains data and code supporting the manuscript Arato & Fitch (
 Vocal Learning and Non-Vocal Learning Birds
 
 
-The provided DataLoader notebook explains the conent of the provided .npy files in the Data folder.
+The provided DataLoader Python notebook loads and visualizes the content of the provided .npy files in the Data folder.
 
 This folder also contains:
 

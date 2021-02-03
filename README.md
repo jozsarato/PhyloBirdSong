@@ -4,6 +4,8 @@ This repository contains data and code supporting the manuscript Arato & Fitch (
 Vocal Learning and Non-Vocal Learning Birds
 
 
+The notebook (Birdsong-auditory feature calculation.ipynb) contains Python code to calculate  9 signal processing features for any audio file:
+
 The provided DataLoader Python notebook loads and visualizes the content of the provided .npy files in the Data folder.
 
 This folder also contains:
@@ -20,6 +22,3 @@ boostrapped Phylogenetic trees (.nex format):
 2. all non-passerine songs (All Non-Passerines.csv)  
 3. passerine species with calls (Stratified Passerine Call.csv)
 
-
-Jupyter notebook with code to calculate these 9 features for any audio file:
-Birdsong-auditory feature calculation.ipynb

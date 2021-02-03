@@ -20,3 +20,6 @@ boostrapped Phylogenetic trees (.nex format):
 2. all non-passerine songs (All Non-Passerines.csv)  
 3. passerine species with calls (Stratified Passerine Call.csv)
 
+
+Jupyter notebook with code to calculate these 9 features for any audio file:
+Birdsong-auditory feature calculation.ipynb

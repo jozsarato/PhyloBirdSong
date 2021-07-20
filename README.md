@@ -1,7 +1,7 @@
 # PhyloBirdSong
 
 This repository contains data and code supporting the manuscript Arato & Fitch (2021): Phylogenetic signal in the vocalizations of
-vocal learning and vocal non-learning birds, _Philosophical Transactions of the Royal Society B_
+vocal learning and vocal non-learning birds, _Philosophical Transactions of the Royal Society B_ 20200241.
 
 
 The notebook (Birdsong-auditory feature calculation.ipynb) contains Python code to calculate  9 signal processing features for any audio file:
